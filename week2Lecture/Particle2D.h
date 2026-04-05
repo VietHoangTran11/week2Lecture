@@ -21,6 +21,7 @@ public:
 
     // Getters
     float mass() const noexcept { return fMass; }
+
     float radius() const noexcept { return fRadius; }
     const Vector2D& position() const noexcept { return fPosition; }
     const Vector2D& velocity() const noexcept { return fVelocity; }

@@ -11,6 +11,7 @@ Particle2D::Particle2D(float aMass,
     fVelocity(aVelocity),
     fAcceleration(aAcceleration)
 {
+
 }
 
 void Particle2D::update() noexcept
