@@ -6,7 +6,7 @@ int main()
     std::cout << "A simple particle simulation\n" << std::endl;
 
     // Create a particle
-    // commit try
+    // commit try again
     // mass = 0.0f, radius = 10.0f
     // position = (10.0f, 20.0f)
     // velocity = (4.0f, 15.0f)
